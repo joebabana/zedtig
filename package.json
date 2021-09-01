@@ -1,0 +1,15 @@
+{
+  "name": "zeddy",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "run": "node get_fatigue.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "description": ""
+}
